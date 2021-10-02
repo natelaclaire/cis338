@@ -138,7 +138,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 14
 * Videos:
   - SEO (include XML sitemaps)
-  - Optimization (caching/compression)
+  - Optimization (include caching/compression)
 * Reading:
 * Discussion:
 * Assignment:
@@ -146,6 +146,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 15
 * Videos:
   - Final Site 
+  - WP CLI (optional)
 * Reading:
 * Discussion:
 * Assignment:
