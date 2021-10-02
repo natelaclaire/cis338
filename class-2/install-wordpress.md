@@ -36,5 +36,5 @@ mv ./wordpress ./tutorial
 22. Enter a password or use the randomly-generated suggestion.
 23. Enter your maine.edu email address.
 24. Click _Install WordPress_.
-25. You are done installing!
+25. You are done installing! If you check your email, you should now have a message from wordpress@cisstudent.uma.edu with information about your new tutorial site.
 26. Now repeat from step 12 for the portfolio site.
