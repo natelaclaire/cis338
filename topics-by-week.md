@@ -67,8 +67,8 @@ Numbered videos are based on lessons from a prior semester.
 
 ## Week 6
 * Videos:
-- 11 Image Slider
-- 12 Page Content
+  - 11 Image Slider
+  - 12 Page Content
 * Reading:
 * Discussion:
   - Take a few minutes to look at a few web sites and see how they utilize image sliders. Do they make good use of them, in your opinion? Explain your reasoning. Can you interact with them? If so, are the interaction methods easy to understand? Please provide links.
@@ -138,7 +138,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 14
 * Videos:
   - SEO (include XML sitemaps)
-  - Optimization (caching/compression)
+  - Optimization (include caching/compression)
 * Reading:
 * Discussion:
 * Assignment:
@@ -146,6 +146,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 15
 * Videos:
   - Final Site 
+  - WP CLI (optional)
 * Reading:
 * Discussion:
 * Assignment:
