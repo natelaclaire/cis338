@@ -13,6 +13,7 @@ Numbered videos are based on lessons from a prior semester.
   - Introduce yourself
 * Assignment:
   - Log into CIS student server (SSH and phpMyAdmin) and complete a quiz showing that you did
+  - Determine what your Portfolio Site will be about - a real/fictitious business/non-profit? Provide the name and a brief explanation of what it does.
 
 ## Week 2
 * Videos:
