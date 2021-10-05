@@ -113,6 +113,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 11
 * Videos:
   - 19 Image Gallery – Portfolio page
+  - Web Stories
 * Reading:
 * Discussion:
   -  Spend a few minutes researching one of the following copyright and stock content topics and write a brief explanation and provide links for what you learn.
