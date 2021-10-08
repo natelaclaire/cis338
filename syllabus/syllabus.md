@@ -1,15 +1,17 @@
 # CIS 338: Content Management Systems: Spring 2022 (Online)
 
-## Office Hours
-
-By Appointment, to schedule visit https://natelaclaire.youcanbook.me
-
 ## Instructor
+
+![Nate LaClaire](../images/laclaire-nathaniel-366x366.jpg "Nate LaClaire")
 
 Nate LaClaire
 
 Questions? Click on my email nathaniel.laclaire@maine.edu 
 Telephone: 207‐621‐3050
+
+### Office Hours
+
+By Appointment, to schedule visit https://natelaclaire.youcanbook.me
 
 ## Required Text and Materials
 
@@ -58,7 +60,7 @@ Upon completion of this course, the student should be able to:
 
 Participation in this course requires that you have access to high speed internet. This is especially critical for accessing online resources.
 
-*Brightspace�* is a content management system that provides the interactive interface for students to access course materials, communicate with instructors and other students, and to upload homework assignments. The Brightspace� site includes the syllabus as well as other course materials. If you have technical issues with Brightspace, please contact our IT helpdesk at UMAHelp@maine.edu or 621-3475.
+*Brightspace* is a content management system that provides the interactive interface for students to access course materials, communicate with instructors and other students, and to upload homework assignments. The Brightspace site includes the syllabus as well as other course materials. If you have technical issues with Brightspace, please contact our IT helpdesk at UMAHelp@maine.edu or 621-3475.
 
 ## Student Responsibilities
 
