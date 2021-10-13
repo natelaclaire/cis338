@@ -45,6 +45,7 @@ Numbered videos are based on lessons from a prior semester.
   - 06 Themes
   - 07 Plugins
   - Security
+  - Site Health
 * Reading:
   - Milestones, chapters 10-12
 * Discussion:
