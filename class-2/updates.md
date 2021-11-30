@@ -1,8 +1,8 @@
 # Updates
 
-1. Go to the URL of your tutorial site following by _wp-login.php_. For example, https://cisstudent.uma.edu/~studentX/cis338-2021/tutorial/wp-login.php, where _studentX_ is your CIS Student Server username.
+1. Go to the URL of your tutorial site followed by _wp-login.php_. For example, https://cisstudent.uma.edu/~studentX/cis338-2021/tutorial/wp-login.php, where _studentX_ is your CIS Student Server username.
 2. Log in using the username and password you created in the _Install WordPress_ tutorial.
-3. You will be taken to the _Dashboard_, part of the WordPress _Admin Area_. Look in the _Admin Menu_ on the left side of your screen and find the Updates item, in the _Dashboard_ group. There will likely be a red circle containing a number next to _Updates_ that indicates how many updates need to be installed. Click _Updates_.
+3. You will be taken to the _Dashboard_, part of the WordPress _Admin Area_. Look in the _Admin Menu_ on the left side of your screen and find the _Updates_ item, in the _Dashboard_ group. There will likely be a red circle containing a number next to _Updates_ that indicates how many updates need to be installed. Click _Updates_.
 4. Since you just installed WordPress, you should see a message that you have the latest version, so no updates to the base WordPress system are required. You should also see a message that the site is kept automatically up to date, which is an excellent security feature but can cause problems in a production scenario. Click _Switch to automatic updates for maintenance and security releases only_. This will reduce the number of breaking changes introduced by automatic updates. 
 5. Scroll down to the _Plugins_ section, where you will likely find a list of plugins needing updates. It will indicate the plugin that needs to be updated along with the compatibility with the current version of WordPress. 
 6. Check the box next to each plugin on the list.
