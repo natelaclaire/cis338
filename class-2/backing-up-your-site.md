@@ -25,3 +25,25 @@ tar -czf ./cis338-backups/tutorial-2022-01-21.tar.gz ./www/cis338/tutorial
 ```
 4. You can now download the file and store it separate from the server if you want (preferably with the database backup), which would be best practice if this was a production site.
 5. Type _exit_ to disconnect from the server.
+
+
+## A Shell Script to Automate This All
+
+```
+#!/bin/bash
+TIME=`date +%Y-%m-%d-%H-%M`                      # This Command will read the date.
+FILES_FILENAME=tutorial-files-$TIME.tar.gz       # The filename including the date.
+SRCDIR=$HOME/www/cis338/tutorial                 # Source backup folder.
+DESDIR=$HOME/cis338-backups                      # Destination of backup file.
+DB_FILENAME=tutorial-db-$TIME.sql                # The filename including the date.
+DBSERVER=127.0.0.1
+DATABASE=XXX
+USER=XXX
+PASS=XXX
+
+tar -cpzf $DESDIR/$FILES_FILENAME $SRCDIR        # Backup the files
+mysqldump --opt --user=${USER} --password=${PASS} ${DATABASE} > ${DB_FILENAME}   # Create the non-compressed database backup .sql file
+gzip $FILE                                       # Compress the .sql file
+rm $FILE                                         # Remove the non-compressed .sql file
+
+```
