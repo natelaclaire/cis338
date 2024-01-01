@@ -87,27 +87,28 @@ To maximize your learning experience, you should:
 - Complete discussion assignments on or before the due date.
 - Complete the homework assignment using the Portfolio Site and indicate that you have completed it through the Course Content tab in Brightspace on or before the due date.
 
-| Week        | Assignment Topic | Due Date        |
-| ----------- | ---------------- | --------------- |
-| 1           | Title            |                 |
-| 2           | Text             |                 |
-| 3           | Text             |                 |
-| 4           | Text             |                 |
-| 5           | Text             |                 |
-| 6           | Text             |                 |
-| 7           | Text             |                 |
-| 8           | Text             |                 |
-| 9           | Text             |                 |
-| 10          | Text             |                 |
-| 11          | Text             |                 |
-| 12          | Text             |                 |
-| 13          | Text             |                 |
-| 14          | Text             |                 |
-| 15          | Text             |                 |
+| Week        | Assignment Topic                                                       | Due Date (11:59pm) |
+| ----------- | ---------------------------------------------------------------------- | ------------------ |
+| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 20         |
+| 2           | WordPress Installation, Users and Roles, Back-ups                      | January 27         |
+| 3           | Storyboard                                                             | February 3         |
+| 4           | Themes, Plugins, Security, Updates                                     | February 10        |
+| 5           | Pages, Menus, Child Themes                                             | February 17        |
+| 6           | Image Sliders, Page Content                                            | February 24        |
+| 7           | Blog Posts, Tags and Categories                                        | March 2            |
+| 8           | Contact Forms                                                          | March 9            |
+|             | **Spring Break - March 10 - 16**                                       |                    |
+| 9           | Calendars, Maps                                                        | March 23           |
+| 10          | Forums, Social Sharing                                                 | March 30           |
+| 11          | Image Galleries, Web Stories                                           | April 6            |
+| 12          | Shops                                                                  | April 13           |
+| 13          | Finishing and Testing, Responsive Design                               | April 20           |
+| 14          | SEO, Optimization                                                      | April 27           |
+| 15          | Final Portfolio Site Submission                                        | May 4              |
 
 ### Semester-long Project: Your Portfolio Site
 
-As a core part of this course, each student will create a WordPress Web site of their own choosing, applying the concepts learned in the tutorials. This could be a Web site for a real or fictitious business or non-profit, a personal Web site, or an informative Web site on a topic of your choosing - and if you have another idea that doesn't fit into one of those categories, that will probably work as well! Just keep in mind when selecting a Portfolio Site that by the end of the course your Portfolio Site will need to include multiple pages, an image gallery, blog/news posts with multiple categorizations, a contact form, a calendar, a map, and a shop.
+As a core part of this course, each student will create a WordPress Web site of their own choosing, applying the concepts learned in the tutorials. This could be a Web site for a real or fictitious business or non-profit, a personal Web site, or an informative Web site on a topic of your choosing - and if you have another idea that doesn't fit into one of those categories, that will probably work as well! Just keep in mind when selecting a Portfolio Site that by the end of the course your Portfolio Site will need to include multiple pages, an image gallery, blog/news posts with multiple categorizations, a contact form, a calendar, a map, a forum, and a shop.
 
 One of the first week's assignments is to propose the topic for your Portfolio Site. The instructor will respond with approval, suggestions, and/or questions before you should begin building the Portfolio Site.
 
