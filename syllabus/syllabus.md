@@ -2,7 +2,7 @@
 
 ## Instructor
 
-![Nate LaClaire](../images/laclaire-nathaniel-366x366.jpg "Nate LaClaire")
+![Nate LaClaire](../images/laclaire-nathaniel-183x183.jpg "Nate LaClaire")
 
 Nate LaClaire
 
