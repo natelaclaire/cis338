@@ -103,8 +103,8 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 10
 
 * Videos:
-  * 17 Forums
-  * 18 Social Media
+  * 17 Forums - includes BuddyPress
+  * 18 Social Media - this is social sharing
 * Discussion:
   * Whether or not your Web site includes social features, your site needs to comply with legal requirements that may include posting how you use and collect certain information. Additionally, there may be other terms that you'll want to post in order to protect yourself. Spend some time researching privacy policies, terms of service, and compliance. You may find WordPress plug-ins that help, open source policies that can be modified to fit your needs, and/or guidance on what you will need to post. Share your findings and provide substantive comments on at least two of your classmates' posts.
 * Assignment:
