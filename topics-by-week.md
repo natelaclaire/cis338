@@ -78,7 +78,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 7
 
 * Videos:
-  * 14 Blogs
+  * 14 Blogs - Includes Comment Moderation, Comment Spam, and User Registrations for Commenting
   * Tags and Categories
 * Discussion:
   * Blogs are everywhere on the web. Nearly every site that you visit will contain either a blog or an area that uses blogging concepts (these are sometimes labeled "news" or "archives" or "stories," among many other things). Look around at a few of the sites that you frequent and find one that has a "blog" or something similar. How frequently is the blog updated? How well is it organized? Do you see a lot of comments on posts? How do the answers to these questions impact how you feel about the site? Please include a link to the site and be sure to provide substantive comments on two or more of your classmates' posts.
