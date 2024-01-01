@@ -1,4 +1,4 @@
-# CIS 338: Content Management Systems: Spring 2022 (Online)
+# CIS 338: Content Management Systems: Spring 2024 (Online)
 
 ## Instructor
 
@@ -6,12 +6,16 @@
 
 Nate LaClaire
 
-Questions? Click on my email nathaniel.laclaire@maine.edu 
-Telephone: 207‐621‐3050
+- **Email:** <nathaniel.laclaire@maine.edu>
+- **Telephone:** 207‐621‐3050
+
+### Response Time
+
+If you send me an email or leave a voicemail during the week, you should expect a response within 1 day. Over the weekend or on holidays, the response time will be longer.
 
 ### Office Hours
 
-By Appointment, to schedule visit https://natelaclaire.youcanbook.me
+By Appointment, to schedule visit <https://natelaclaire.youcanbook.me>
 
 ## Required Text and Materials
 
@@ -25,10 +29,10 @@ Students will be required to install an SSH and an SFTP client. Free options wil
 
 This course will introduce students to concepts used in modern Content Management Systems (CMS), specifically applying these concepts using the WordPress CMS. This will include:
 
--	Role of content management technologies to design, edit, manage and publish Web content
--	Implementing common Web site features using a CMS
--	Open-source Web technologies
--	Overview of WordPress
+- Role of content management technologies to design, edit, manage and publish Web content
+- Implementing common Web site features using a CMS
+- Open-source Web technologies
+- Overview of WordPress
 
 Expect to work an average of six to nine hours a week on homework assignments, discussion assignments, and studying. This may vary on any particular week depending on class workload.
 
@@ -36,31 +40,31 @@ Expect to work an average of six to nine hours a week on homework assignments, d
 
 Upon completion of this course, the student should be able to:
 
--	Create and install a database
--	Download, install and configure WordPress
--	Back up WordPress files and database
--	Explore and plan a site with storyboard
--	Add WordPress plugins 
--	Create pages
--	Create posts
--	Add content to pages
--	Add tags and categories
--	Moderate comments
--	Change WordPress themes and create child themes
--	Work with WordPress blocks and menus
--	Modify CSS files
--	Set WordPress user roles
--	Create a Contact form with CAPTCHA in WordPress
--	Configure an image slider and gallery
--	Insert drop-down menus
--	Install security updates
--	Transfer site to new server
+- Create and install a database
+- Download, install and configure WordPress
+- Back up WordPress files and database
+- Explore and plan a site with storyboard
+- Add WordPress plugins
+- Create pages
+- Create posts
+- Add content to pages
+- Add tags and categories
+- Moderate comments
+- Change WordPress themes and create child themes
+- Work with WordPress blocks and menus
+- Modify CSS files
+- Set WordPress user roles
+- Create a Contact form with CAPTCHA in WordPress
+- Configure an image slider and gallery
+- Insert drop-down menus
+- Install security updates
+- Transfer site to new server
 
 ## Electronic Learning Tools
 
 Participation in this course requires that you have access to high speed internet. This is especially critical for accessing online resources.
 
-*Brightspace* is a content management system that provides the interactive interface for students to access course materials, communicate with instructors and other students, and to upload homework assignments. The Brightspace site includes the syllabus as well as other course materials. If you have technical issues with Brightspace, please contact our IT helpdesk at UMAHelp@maine.edu or 621-3475.
+*Brightspace* is a content management system that provides the interactive interface for students to access course materials, communicate with instructors and other students, and to upload homework assignments. The Brightspace site includes the syllabus as well as other course materials. If you have technical issues with Brightspace, consult the Student Tech Hub at (207) 621-3123 or <https://uma.edu/thehub>, or contact the UMS IT Helpdesk at 1-800-696-4357.
 
 ## Student Responsibilities
 
@@ -78,10 +82,10 @@ Graded assignments are due on Saturday at midnight of the week they are assigned
 
 To maximize your learning experience, you should:
 
--	Watch the videos, complete the tutorial using the Tutorial Site along with the instructor, and review any supplementary materials available in Brightspace.
--	Communicate with the instructor if there is a concept that you do not understand.
--	Complete discussion assignments on or before the due date.
--	Complete the homework assignment using the Portfolio Site and indicate that you have completed it through the Course Content tab in Brightspace on or before the due date.
+- Watch the videos, complete the tutorial using the Tutorial Site along with the instructor, and review any supplementary materials available in Brightspace.
+- Communicate with the instructor if there is a concept that you do not understand.
+- Complete discussion assignments on or before the due date.
+- Complete the homework assignment using the Portfolio Site and indicate that you have completed it through the Course Content tab in Brightspace on or before the due date.
 
 | Week        | Assignment Topic | Due Date        |
 | ----------- | ---------------- | --------------- |
@@ -101,24 +105,34 @@ To maximize your learning experience, you should:
 | 14          | Text             |                 |
 | 15          | Text             |                 |
 
+### Semester-long Project: Your Portfolio Site
+
+As a core part of this course, each student will create a WordPress Web site of their own choosing, applying the concepts learned in the tutorials. This could be a Web site for a real or fictitious business or non-profit, a personal Web site, or an informative Web site on a topic of your choosing - and if you have another idea that doesn't fit into one of those categories, that will probably work as well! Just keep in mind when selecting a Portfolio Site that by the end of the course your Portfolio Site will need to include multiple pages, an image gallery, blog/news posts with multiple categorizations, a contact form, a calendar, a map, and a shop.
+
+One of the first week's assignments is to propose the topic for your Portfolio Site. The instructor will respond with approval, suggestions, and/or questions before you should begin building the Portfolio Site.
+
+### Religious Holidays
+
+Students who anticipate a conflict between their observance of a religious holiday and an academic requirement in this course should contact me early in the semester to discuss the conflict. Reasonable efforts will be made to minimize any negative academic impact that may arise due to the conflict.
+
 ## Grading Criteria
 
 - **80%** of your grade will be determined by Homework Assignments.
-
 - **20%** of your grade will be determined by Discussion Assignments.
 
 A 94-100%, A- 90-93%, B+ 87-89%, B 83-86%, B- 80-82%, C+ 77-79%, C 73-76%, C- 70-72%, D+ 67-69%, D 63-66%, D- 60-62%, F below 60%.
 
 ## Communication
 
-Students are encouraged to ask questions or make comments and/or suggestions. This helps you reinforce your learning and maximize your learning experience. The Brightspace� content management system is available for student chat discussions, email communication, and to view course announcements at https://courses.maine.edu/d2l/home
+Students are encouraged to ask questions or make comments and/or suggestions. This helps you reinforce your learning and maximize your learning experience. The Brightspace content management system is available for student chat discussions, email communication, and to view course announcements at <https://courses.maine.edu/d2l/home>
 
-For purposes of this class, communication is defined as interactively engaging with the Brightspace� system, contacting the instructor via email or phone if you have questions outside of class, and responding to the instructor's emails or phone calls.
+For purposes of this class, communication is defined as interactively engaging with the Brightspace system, contacting the instructor via email or phone if you have questions outside of class, and responding to the instructor's emails or phone calls.
+
+Any communications sent from my UMA email or from the Brightspace course will go to your @maine.edu address that was automatically created for you when you registered for this class. It will be important that during the semester you check this email regularly for information from your instructors and the institution. This is the email I will use to communicate with you regarding this course.
 
 ## Academic Integrity
 
-Cheating on an assignment or assessment will result in a grade of "0." Repeated offenses will result in a grade of "F" for the semester. Cheating includes uploading another student's work as your own, copying another student's work, or asking someone else to complete the assessment for you. Students should familiarize themselves with UMA's policies and procedures regarding Academic Integrity at
-http://www.uma.edu/studenthandbookpol-s.html#saic
+Academic integrity means that a student's work is the product of his/her own effort. Violations of academic integrity include such behaviors as cheating, fabrication, and plagiarism, and are described more fully in the UMA Student Academic Integrity Code, which is published in the online UMA Student Handbook. Each student is responsible for learning the standards of academic integrity, and ensuring that his/her work meets these standards. Failure to do so may result in appropriate sanctions consistent with UMA Student Academic Integrity Policy.  If you have questions about the academic integrity of your work, discuss these with your instructor before submitting the work.  The full policy can be found at <https://www.uma.edu/compliance/handbook/academic-integrity/>.
 
 ## Class Withdrawals
 
@@ -132,13 +146,18 @@ WF Grade: The "WF" grade is awarded when a course is dropped after 60% of the te
 
 ## Incompletes
 
-Awarding of the grade of Incomplete is at the discretion of the instructor. An Incomplete is a temporary grade indicating that specific arrangements have been made with the instructor to complete work by a later date not to exceed 210 days after the end of the term. Incomplete grades will be granted only under unusual circumstances which prevent a student from completing the course during the semester in which the student is enrolled. The student must request the grade of incomplete from the instructor prior to the end of the semester. Not all requests will be approved. Incompletes must be completed within 210 days of the end of the semester or by a specified time that is jointly agreed upon by the instructor and student. Otherwise, the grade will revert to an "F" after 210 days from the end of the semester. Any extension beyond that requires the Dean's approval.
+An "Incomplete" is a temporary grade indicating that specific arrangements have been made with the instructor to complete work by a later date, not to exceed 150 days after the end of the term.  If a student has completed almost all of the work for a course, an Incomplete grade may be appropriate. An Incomplete may be extended once by the instructor for a period not to exceed 150 days.  Any additional extension of an Incomplete grade by the instructor requires the Dean's approval.
+
+Awarding of the incomplete grade is at the discretion of the instructor.  If the Incomplete grade is determined to be appropriate, the instructor will complete the Incomplete Grade Contract in MaineStreet, which specifies the following:
+
+- The work to be completed by the student.
+- The date by which the student will complete the work, not to exceed 150 days after the end of the term.
+- The grade the student will receive if the work is not completed.  If no grade is specified, the Incomplete is turned to an "F" after 150 days or as specified by the contract.
 
 ## Accommodations for Students with Disabilities
 
-If you have a disability which may affect your ability to participate fully in this course, it is your responsibility to request accommodations promptly. Contact the Department of Learning Success on your campus, or Coordinator of Student Services at your University College Center to discuss possible assistance. Accommodations must be requested each semester, and are not provided retroactively. More information can be found at: http://www.uma.edu/academics/student-support/student- development/disability-services/
+If you have a disability which may affect your ability to participate fully in this course, it is your responsibility to request accommodations promptly.  Contact the Department of Student Support and Development to discuss possible assistance.  Accommodations must be requested each semester, and are not provided retroactively.  More information can be found at: <http://www.uma.edu/academics/student-support/student-development/disability-services/>.
 
 ## Title IX
 
-The University of Maine at Augusta is committed to providing an environment free of violence and harassment based on sex and gender. Such civil rights offences are subject to the same accountability and support as offences based on race, national origin, etc. If you or someone else within the UMA community is struggling with sex discrimination, sexual harassment, sexual assault relationship violence, or stalking you can find the appropriate resources at: https://www.uma.edu/titleixinfo.html.
-
+The University of Maine System and UMA are committed to providing an environment free of sexual discrimination including sexual assault, sexual harassment, stalking, relationship abuse (dating violence and domestic violence), sexual misconduct, retaliation, discrimination related to pregnancy/parenting, and gender discrimination. Because of this commitment, the University provides support services and also designates faculty and staff as Mandatory Reporters to the Deputy Title IX Coordinator. If you or someone else within the UMA community is struggling with sexual discrimination, please submit a concern to the [Care Team](https://cm.maxient.com/reportingform.php?UnivofMaineSystem&amp;layout_id=3). For additional resources, go to the [Title IX website](https://www.uma.edu/compliance/equal-opportunity/title-ix/).
