@@ -8,6 +8,7 @@ Numbered videos are based on lessons from a prior semester.
   * Introduction / syllabus
   * Semester-long Project: Your Portfolio Site
   * Survey of Content Management Systems
+  * SSH and SFTP Software Suggestions
   * Set up (SSH and phpMyAdmin)
 * Discussion:
   * Introduce yourself
