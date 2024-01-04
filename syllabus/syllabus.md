@@ -16,7 +16,7 @@ If you send me an email or leave a voicemail during the week, you should expect 
 
 ### Office Hours
 
-By Appointment, to schedule visit <https://natelaclaire.youcanbook.me>
+I do not have set weekly Office Hours, but am available by appointment. To schedule visit <https://natelaclaire.youcanbook.me>.
 
 ## Required Text and Materials
 
