@@ -20,12 +20,13 @@ In a future lesson, we will look at ways to automatically perform backups, but i
 1. Log into the CIS Student Server using SSH.
 2. The first time you backup your files, you'll need to create a folder in which to store the backups. Type _mkdir cis338-backups_ and press Enter. It's important that you place this folder in your home folder, outside of the _www_ folder in order to protect it from being downloaded and compromising your site's security.
 3. Each time you backup your site, type the following and press Enter to place your site files in a Tar archive file, compress it with Gzip, and store it in the new folder (be sure to change the date in the filename to the current one each time you run it so that you don't overwrite an old backup):
+
 ```
 tar -czf ./cis338-backups/tutorial-2022-01-21.tar.gz ./www/cis338/tutorial
 ```
+
 4. You can now download the file and store it separate from the server if you want (preferably with the database backup), which would be best practice if this was a production site.
 5. Type _exit_ to disconnect from the server.
-
 
 ## A Shell Script to Automate This All
 

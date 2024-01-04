@@ -1,8 +1,8 @@
 # Configure WordPress
 
-1. Go to the URL of your tutorial site following by _wp-login.php_. For example, https://cisstudent.uma.edu/~studentX/cis338-2021/tutorial/wp-login.php, where _studentX_ is your CIS Student Server username.
+1. Go to the URL of your tutorial site following by _wp-login.php_. For example, <https://cisstudent.uma.edu/~studentX/cis338/tutorial/wp-login.php>, where _studentX_ is your CIS Student Server username.
 2. Log in using the username and password you created in the _Install WordPress_ tutorial.
-3. You will be taken to the _Dashboard_, part of the WordPress _Admin Area_. Down the side you will see a number of sections of the Admin Area in the _Admin Menu_. Along the top, you will see the _Admin Bar_, which provides quick access to the public-facing site and several features. At the far right of the _Admin Bar_, you will see _Howdy, [username]_, which is where you will go to log out, change your password, and configure other options that relate to your WordPress administrative account. 
+3. You will be taken to the _Dashboard_, part of the WordPress _Admin Area_. Down the side you will see a number of sections of the Admin Area in the _Admin Menu_. Along the top, you will see the _Admin Bar_, which provides quick access to the public-facing site and several features. At the far right of the _Admin Bar_, you will see _Howdy, [username]_, which is where you will go to log out, change your password, and configure other options that relate to your WordPress administrative account.
 4. In the _Admin Menu_, hover over _Settings_ and click _General_.
 5. You will see several settings. To begin, change the tagline to _A place for geeks to be geeks_.
 6. In the timezone box, choose _New York_.

@@ -3,23 +3,31 @@
 1. Log into your CIS Student server account via SSH.
 2. Type _cd www/cis338_ and press Enter. If you have not already created your cis338 folder, follow last week's tutorials first to do so.
 3. Type the following and press Enter to download the latest version of WordPress:
+
 ```
 wget https://wordpress.org/latest.zip
 ```
-4. Type _ls_ and press Enter and you should now see a file name latest.zip downloaded into the folder.
+
+4. Type _ls_ and press Enter and you should now see a file named latest.zip downloaded into the folder.
 5. Type the following and press Enter to unzip the file into a folder named _wordpress_:
+
 ```
 unzip ./latest.zip
 ```
+
 6. You will see a number of lines on the screen that confirm that each of the files are being inflated. If you run _ls_ again you will now see a folder named _wordpress_.
 7. Type the following to copy the new _wordpress_ folder to a folder named _portfolio_:
+
 ```
 cp -R ./wordpress ./portfolio
 ```
+
 8. Type the following to rename the _wordpress_ folder to _tutorial_:
+
 ```
 mv ./wordpress ./tutorial
 ```
+
 9. If you run _ls_ again you will now see two folders named _portfolio_ and _tutorial_, respectively.
 10. Type _rm latest.zip_ to delete the zip file - you no longer need it.
 11. Type _exit_ to disconnect from SSH.
@@ -32,7 +40,7 @@ mv ./wordpress ./tutorial
 18. Click _Submit_.
 19. Click _Run the Installation_.
 20. Type _Geeky Acres_ as the site title.
-21. Enter a username that you will use to administer the site. For security purposes, avoid using _admin_.
+21. Enter a username that you will use to administer the site. For security purposes, don't use _admin_.
 22. Enter a password or use the randomly-generated suggestion.
 23. Enter your maine.edu email address.
 24. Click _Install WordPress_.
