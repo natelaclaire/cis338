@@ -26,7 +26,7 @@ The lines are very blurry. There are many systems that are classified as one of 
 - **Control / Keep Track Of Content** - for example, it controls who can see the content, records the state of the content, keeps track of how the content has changed, knows what content is related to what other content, and enables us to search and organize the content
 - **Allow Content Reuse** - such as storing an author bio that can be updated in one place and the changes will be reflected at the bottom of all of the author's articles, providing teasers for related articles, etc.
 - **Allow Content Automation and Aggregation** - such as providing content via a mobile app in addition to a Web site, providing a feed that can allow content to be promoted on a third party web site, providing abstracts of new content that can be sent in a daily e-newsletter, compiling a set of articles into an ebook or PDF, or managing multiple translations of content
-- **Increase Editorial Efficiency** - by controlling the types of content that editors can and can't add, the formatting tools they can use, how the content is structured, automating the editorial workflow and collaboration, automation the publication/distribution process, etc.
+- **Increase Editorial Efficiency** - by controlling the types of content that editors can and can't add, the formatting tools they can use, how the content is structured, automating the editorial workflow and collaboration, automating the publication/distribution process, etc.
 
 ## What A CMS Doesn't Do
 
@@ -34,3 +34,74 @@ The lines are very blurry. There are many systems that are classified as one of 
 - **Create Marketing Plans** - the CMS can help with the plan once defined, but a human has to define it
 - **Effectively Format Content** - human editors must understand how much bold and italic is too much, when and how to align content, proper hyperlinking practices, proper image placement, etc.
 - **Provide Governance** - it can enforce governance and workflow once defined, but humans must provide the instructions
+
+## Web Content Management Systems
+
+### WordPress
+
+#### .com vs. .org
+
+### Grav
+
+### Joomla
+
+### Ghost
+
+### Drupal
+
+### Concrete CMS
+
+### TYPO3
+
+### SilverStripe
+
+### Craft
+
+### Bolt
+
+### Umbraco
+
+### Microweber
+
+### Textpattern
+
+### Contao
+
+### PyroCMS
+
+### Fork
+
+### Wix
+
+### Shopify
+
+### Strapi
+
+### HubSpot CMS Hub
+
+### BigCommerce
+
+### Magento
+
+### Blogger
+
+### Bitrix24
+
+### PrestaShop
+
+### Magnolia
+
+### Optimizely
+
+### Crownpeak
+
+### Contentful
+
+### Storyblok
+
+### concrete5
+
+### Contentstack
+
+### Webflow
+
