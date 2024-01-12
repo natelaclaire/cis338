@@ -1,2 +1,5 @@
 # Semester-long Project: Your Portfolio Site
 
+As a core part of this course, each student will create a WordPress Web site of their own choosing, applying the concepts learned in the tutorials. This could be a Web site for a real or fictitious business or non-profit, a personal Web site, or an informative Web site on a topic of your choosing - and if you have another idea that doesn't fit into one of those categories, that will probably work as well! Just keep in mind when selecting a Portfolio Site that by the end of the course your Portfolio Site will need to include multiple pages, an image gallery, blog/news posts with multiple categorizations, a contact form, a calendar, a map, a forum, and a shop.
+
+One of the first week's assignments is to propose the topic for your Portfolio Site. The instructor will respond with approval, suggestions, and/or questions before you should begin building the Portfolio Site.
