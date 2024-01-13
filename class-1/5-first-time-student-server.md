@@ -20,3 +20,12 @@ Next, launch PuTTY from the Start menu.
 1 uppercase letter
 2 lowercase letters
 1 special character
+
+## OpenSSH Client
+
+If you have not used the CIS Student Server before, you should have received an email similar to this one from "UMA CIS Student Server" with your new credentials. You will be required to change your password using an SSH client before you continue the course.
+
+Let's look at how you will do that using the ssh command on macOS.
+
+Next, open the Terminal either using Spotlight or by going to Finder, Applications, Utilities.
+
