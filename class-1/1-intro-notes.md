@@ -1,0 +1,7 @@
+# Introduction
+
+Hello! Welcome to CIS 338! My name is Nate LaClaire and I am a professional Web developer with over 25 years of experience. Over the years, I've built numerous sites using multiple content management systems and some using no content management system at all. Most recently, my primary content management system has been WordPress.
+
+I am looking forward to sharing what I have learned and learning new things from you and alongside you!
+
+Let's take a look at the Syllabus together.
