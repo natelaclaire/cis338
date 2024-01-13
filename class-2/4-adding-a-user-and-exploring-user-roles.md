@@ -1,4 +1,6 @@
-# Adding a User Account for Your Instructor
+# Adding a User Account for Your Instructor and Exploring User Roles
+
+## Adding a User Account for Your Instructor
 
 1. Go to the URL of your tutorial site followed by _wp-login.php_. For example, <https://cisstudent.uma.edu/~studentX/cis338/tutorial/wp-login.php>, where _studentX_ is your CIS Student Server username.
 2. Log in using the username and password you created in the _Install WordPress_ tutorial.
@@ -9,3 +11,7 @@
 7. Change the role to _Administrator_.
 8. Click _Add New User_.
 9. The list of users will appear with a message that the new user has been created. At the same time, your instructor will receive an email with the login details, with a link to login and change the password.
+
+## Exploring User Roles
+
+https://wordpress.org/documentation/article/roles-and-capabilities/
