@@ -6,14 +6,15 @@ In a future lesson, we will look at ways to automatically perform backups, but i
 
 1. Log into phpMyAdmin on the CIS Student Server.
 2. Click the database that you want to backup. For example, _studentX_cis338tutorial_, where _studentX_ is your student username.
-3. Click _Export_.
-4. Click _Custom_.
-5. Ensure that _Structure_ and _Data_ are selected for all tables.
-6. Ensure that _Output to a file_ is selected.
-7. Check _Add DROP TABLE / VIEW / PROCEDURE / FUNCTION / EVENT / TRIGGER statement_.
-8. Click _Go_.
-9. Save the resulting file in a safe place.
-10. Log out of phpMyAdmin.
+3. Before we proceed with the backup process, let's take a look at the structure of a WordPress database. This this is a fresh installation of WordPress, there aren't too many tables. As you can see, the current version of WordPress has just 12 tables. In a future lesson, we'll learn about Plugins, which create their own tables. As a result, it's not safe to assume that a WordPress installation depends on just these 12 tables. Also, note the table prefix that we specified during the installation process. As you can see, by using the prefix, we could have multiple installations using the same database because each would have its own prefix. Also note the security benefit: in order for a hacker to perform some types of attacks, such as certain SQL Injection attacks, they would need to know what the prefix is in order to do things that they shouldn't be doing. For example, if they wanted to create a new user, they couldn't simple _INSERT INTO wp_users [etc...]_ because that table doesn't exist. Alright - back to the backup process:
+4. Click _Export_.
+5. Click _Custom_.
+6. Ensure that _Structure_ and _Data_ are selected for all tables.
+7. Ensure that _Output to a file_ is selected.
+8. Check _Add DROP TABLE / VIEW / PROCEDURE / FUNCTION / EVENT / TRIGGER statement_.
+9. Click _Go_.
+10. Save the resulting file in a safe place.
+11. Log out of phpMyAdmin.
 
 ## Backing Up Your Files
 

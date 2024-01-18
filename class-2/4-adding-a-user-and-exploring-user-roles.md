@@ -14,4 +14,5 @@
 
 ## Exploring User Roles
 
-https://wordpress.org/documentation/article/roles-and-capabilities/
+WordPress provides extensive documentation regarding roles and capabilities here:
+<https://wordpress.org/documentation/article/roles-and-capabilities/>
