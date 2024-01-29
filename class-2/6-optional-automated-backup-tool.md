@@ -24,8 +24,10 @@ USER=XXX                                         # Database username
 PASS=XXX                                         # Database password
 
 tar -cpzf $DESDIR/$FILES_FILENAME $SRCDIR        # Backup the files
-mysqldump --opt --user=${USER} --password=${PASS} ${DATABASE} > ${DESDIR}/${DB_FILENAME}   # Create the non-compressed database backup .sql file
-gzip ${DESDIR}/${DB_FILENAME}                    # Compress the .sql file and delete the original
+# Create the non-compressed database backup .sql file
+mysqldump --opt --user=$USER --password=$PASS $DATABASE > $DESDIR/$DB_FILENAME
+# Compress the .sql file and delete the original
+gzip ${DESDIR}/${DB_FILENAME}                    
 ```
 
 4. Replace each XXX with the proper value, based on the comments.
@@ -56,4 +58,4 @@ cd cis338-backups
 ls -al
 ```
 
-There you have it! At this point, you will likely want to download each of the backup files using SFTP and keep them somewhere safe. If this were a production setting, you would want to implement some sort of backup policy involving multiple backup locations and removing old backups after a period of time.
+There you have it! At this point, you can download the files and store them as described in tutorial 5.
