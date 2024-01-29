@@ -26,7 +26,9 @@ Additionally, there are many WordPress themes available for download all over th
 Let's select a new theme for our tutorial site:
 
 1. Click in the _Search Themes_ box and enter _Kaaryam_ and press Enter.
-2. You should see one result. Click _Install_.
-3. Once the _Install_ button changes to _Activate_, click that.
-4. Now click the _Home_ button to see the updated site.
-5. This theme is designed for conferences, but it supports WordPress's full site editing functionality, so we'll be able to change it to look the way we need.
+2. You should see one result. Click it to get more information.
+3. Check the ratings and read the information.
+4. Once you're comfortable, click _Install_.
+5. Once the _Install_ button changes to _Activate_, click that.
+6. Now click the _Home_ button to see the updated site.
+7. This theme is designed for conferences, but it supports WordPress's full site editing functionality, so we'll be able to change it to look the way we need.
