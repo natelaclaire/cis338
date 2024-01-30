@@ -69,7 +69,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 6
 
 * Videos:
-  * 11 Image Slider
+  * 11 Image Slider - include Instant Images and Soliloquy
   * 12 Page Content
 * Discussion:
   * Take a few minutes to look at a few web sites and see how they utilize image sliders. Do they make good use of them, in your opinion? Explain your reasoning. Can you interact with them? If so, are the interaction methods easy to understand? Please provide links.
@@ -79,7 +79,7 @@ Numbered videos are based on lessons from a prior semester.
 
 * Videos:
   * 14 Blogs - Includes Comment Moderation, Comment Spam, and User Registrations for Commenting
-  * Tags and Categories
+  * Tags and Categories - talk about adding a filter to the Query Loop on the front page
 * Discussion:
   * Blogs are everywhere on the web. Nearly every site that you visit will contain either a blog or an area that uses blogging concepts (these are sometimes labeled "news" or "archives" or "stories," among many other things). Look around at a few of the sites that you frequent and find one that has a "blog" or something similar. How frequently is the blog updated? How well is it organized? Do you see a lot of comments on posts? How do the answers to these questions impact how you feel about the site? Please include a link to the site and be sure to provide substantive comments on two or more of your classmates' posts.
 * Assignment:

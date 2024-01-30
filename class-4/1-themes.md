@@ -31,4 +31,7 @@ Let's select a new theme for our tutorial site:
 4. Once you're comfortable, click _Install_.
 5. Once the _Install_ button changes to _Activate_, click that.
 6. Now click the _Home_ button to see the updated site.
-7. This theme is designed for conferences, but it supports WordPress's full site editing functionality, so we'll be able to change it to look the way we need.
+
+This theme is designed for conferences, but it supports WordPress's full site editing functionality, so we'll be able to change it to look the way we need.
+
+In the next video, we'll pick up right here from the home page and make some customizations.
