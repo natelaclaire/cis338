@@ -37,3 +37,8 @@ Notice that when you are viewing a page and are signed in, you have a handy _Edi
 In the _Settings_ pane, in the _Page_ tab, you will now see some new items. You can switch this back to a draft if you've decided to unpublish it. You can also see revisions that have been made. Click the Revisions button. Here you can compare each revision to the previous state and even restore past revisions. You can also see the user and date and time of each revision.
 
 Proceed to add the _Less Geeky Activities_ and _Geekaway Accommodations_ pages using the page content document and storyboard as a guide.
+
+More information about blocks:
+- <https://wordpress.org/documentation/article/blocks-list/>
+- <https://fullsiteediting.com/blocks/>
+- <https://developer.wordpress.org/block-editor/reference-guides/core-blocks/>
