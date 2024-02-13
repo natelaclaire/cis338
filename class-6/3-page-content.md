@@ -1,3 +1,10 @@
+NEED TO COVER EDITING BLOCKS AS HTML
+ALSO PATTERNS - create an unsynced pattern for the layout of the four blocks next to the text for the activities page and a synced pattern for a call to action used across the site
+look at advanced for the cover block
+resize cover blocks 
+
+
+
 Last week we started using the Full Site Editor to modify our site's front page. This week, we are going to learn how to create and modify additional pages, which will include getting a lot more experience with _WordPresss blocks_ and the _WordPress block editor_, which is sometimes called the _WordPress editor_ or the _Gutenberg editor_ because Gutenberg was the code name for the editor during development.
 
 Pages are an essential component of any website. They allow you to organize and present your content in a structured manner. Today, we'll cover everything from creating a basic page to advanced features. We'll be starting from the WordPress admin area dashboard, so if you haven't yet logged in, please do so now. Also, take a moment to download the initial draft page content from Brightspace as we will need it shortly.
