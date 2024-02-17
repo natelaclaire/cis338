@@ -56,7 +56,7 @@ Sometimes we all want to get our hands dirty! Our makerspace, hackerspace, and m
   - Audio Engineering
   - Animation
 
-## Less Geeky Activities
+## Normie Activities
 
 Sometimes we want a break from geekiness. Other times, we have traveling companions who couldn't care less about VR, computer code, or other geeky passions. We have just what you need!
 

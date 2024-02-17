@@ -21,7 +21,7 @@ I've included some links in the resources for this tutorial that explain methods
 
 Over the course of this week's tutorials, we will explore various ways to upload and select images. To start, though, let's use the _Media Library_ directly:
 
-1. Download the images that I supplied in Brightspace.
+1. Download the images that I supplied in Brightspace and extract the .zip file.
 2. In the _Admin area_, select _Media > Add New Media File_.
 3. This is the _multi-file uploader_. Notice that you can drag and drop onto the uploader or click _Select Files_ and choose the files to upload.
 4. There is also a _browser uploader_ that is still supported in case you have trouble with the multi-file uploader.
