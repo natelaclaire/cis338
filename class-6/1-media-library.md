@@ -9,10 +9,10 @@ Images are an important part of any Web site. WordPress allows uploading several
 
 There are some file types that you might expect to be able to upload to WordPress but cannot due to security risks, including:
 
-Images such as .svg, .bmp
-Documents like .psd, .ai, .pages
-Code files such as .css, .js, .json
-Video like .flv, .f4l, .qt
+- Images such as .svg, .bmp
+- Documents like .psd, .ai, .pages
+- Code files such as .css, .js, .json
+- Video like .flv, .f4l, .qt
 
 I've included some links in the resources for this tutorial that explain methods to add support for various file types that are not allowed by default:
 
