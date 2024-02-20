@@ -124,6 +124,7 @@ Numbered videos are based on lessons from a prior semester.
 
 * Videos:
   * 20 Shop
+  * Analytics / Statistics
 * Discussion:
   * Much research has been done into how to reduce cart abandonment - in other words, how to keep people from leaving your site without completing their purchase. Spend some time looking for tips and tricks related to this and share your findings, along with links. Are you surprised by what you learn? Does anything seem counter-intuitive? Can you relate what you learn to your own experience? Please share. Also provide substantive comments on two or more of your classmates' posts.
 * Assignment:
