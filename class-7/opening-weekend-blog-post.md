@@ -36,7 +36,7 @@ In the wake of global events, Geekaway is prioritizing the health and safety of 
 
 ## Exclusive Packages and Offers
 
-To entice visitors during the opening weekend, Geekaway has curated exclusive packages and offers, combining accommodations with special amenities and discounts. These promotions are designed to make the resort's grand unveiling an irresistible opportunity for travelers seeking the epitome of luxury.
+To entice visitors during the opening weekend, Geekaway has curated exclusive packages and offers, combining accommodations with special amenities and discounts. These promotions are designed to make the resort's grand unveiling an irresistible opportunity for travelers seeking the epitome of geeky fun.
 
 ## Conclusion
 
