@@ -152,5 +152,6 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * Final Site
   * WP CLI (optional)
+  * Local Development (optional?)
 * Discussion:
 * Assignment:
