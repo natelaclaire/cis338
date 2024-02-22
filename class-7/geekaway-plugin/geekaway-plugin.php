@@ -1,16 +1,3 @@
-# 7.9 Optional Tutorial: Custom User Forms
-
-Now that you are requiring people to register for your site to do things like comment on posts, you may find yourself wanting to customize the fields displayed on the registration form and profile page. There are a number of plugins that allow you to do this. Some of those plugins customize the default forms provided by WordPress. Others create completely separate forms.
-
-One popular plugin that creates completely separate forms and also provides an optional member directory is [_Ultimate Member_](https://ultimatemember.com/). If you'd like to explore such plugins, I encourage you to check out a few and see the differences.
-
-Instead of using a pre-existing plugin, we're going to create our own. It's a very simple plugin, but it will give us a taste of how plugins are created.
-
-1. Create a folder called _geekaway-plugin_.
-2. Inside, create a file named _geekaway-plugin.php_.
-3. Remember that when creating themes or plugins in WordPress you always place an opening PHP tag at the top of the file and never put a closing tag at the bottom. Here's the code to place in the file:
-
-```php
 <?php
 /**
 * Plugin Name: geekaway-plugin
@@ -107,15 +94,3 @@ function geekawayplugin_save_profile_fields( $user_id ) {
     }
     update_user_meta( $user_id, 'favorite_color', $_POST['favorite_color'] );
 }
-```
-
-4. Once you've saved the file, zip the entire folder into a file called _geekaway-plugin.zip_.
-5. In the _Admin area_, go to _Plugins > Add New Plugin_.
-6. Click _Upload Plugin_.
-7. Click _Browse_ and select the .zip file.
-8. Click _Install Now_ and then _Activate_.
-9. Edit your profile and confirm that you see the _Favorite Color_ field and that what you enter into the field gets saved.
-10. Edit the profile for the _instructor_ account and verify that the field appears there as well and that what you enter into the field gets saved.
-11. Log out and visit registration form to confirm that all three of the new fields appear there. Try creating a new account and filling in all of those fields. Once you've done that, check to see if the information saved to your profile.
-
-Special thanks to the [Customizing the Registration Form](https://codex.wordpress.org/Customizing_the_Registration_Form) page on the [WordPress Codex](https://codex.wordpress.org/).
