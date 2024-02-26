@@ -1,3 +1,8 @@
+---
+layout: default
+title: Topic / Tutorial List
+---
+
 # Topic/Tutorial List
 
 Numbered videos are based on lessons from a prior semester.

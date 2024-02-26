@@ -1,4 +1,9 @@
-# Menus and Navigation
+---
+layout: default
+title: "5.3 Menus and Navigation"
+---
+
+# 5.3 Menus and Navigation
 
 We now have our pages set up, so let's look at how to configure our navigation.
 

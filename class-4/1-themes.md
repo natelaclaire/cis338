@@ -1,4 +1,9 @@
-# Themes
+---
+layout: default
+title: "4.1 Themes"
+---
+
+# 4.1 Themes
 
 In WordPress, the theme provides the look and feel of your site. Since all of your content is stored in the database, you can change the theme at any time and the way the content is displayed will instantly change.
 

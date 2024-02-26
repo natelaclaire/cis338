@@ -1,4 +1,9 @@
-# Site Pages, Part 2
+---
+layout: default
+title: "5.2 Site Pages, Part 2"
+---
+
+# 5.2 Site Pages, Part 2
 
 When we were building the storyboard, I mentioned that we might want to make a change to the site structure. This is the kind of thing that you would want to avoid once a site is launched, but frequently takes place during development. Honestly, it's not uncommon to do after launch, either, but if you do it right after launch it takes a lot more work than it does during development.
 

@@ -1,4 +1,9 @@
-# Image Sliders
+---
+layout: default
+title: "6.3 Image Sliders"
+---
+
+# 6.3 Image Sliders
 
 Similar to a slide show, an image slider is a Web site element that displays one image or video at a time with the image/video being replaced by another either after a set amount of time or when the visitor clicks to view the next slide. Often image sliders also include text, either superimposed on the image/video or appearing next to the image/video. WordPress doesn't natively provide an image slider block, but there are a number of image slider plugins available. We're going to install one called _Soliloquy_.
 

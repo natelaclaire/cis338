@@ -1,4 +1,4 @@
-# Your First Time Signing Into The CIS Student Server
+# 1.5 Your First Time Signing Into The CIS Student Server
 
 ## PuTTY
 

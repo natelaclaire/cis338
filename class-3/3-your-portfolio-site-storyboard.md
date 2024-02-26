@@ -1,4 +1,9 @@
-# Your Portfolio Site Storyboard
+---
+layout: default
+title: "3.3 Your Portfolio Site Storyboard"
+---
+
+# 3.3 Your Portfolio Site Storyboard
 
 Your assignment for this week is to build a storyboard for your portfolio site using the tool of your choice. Use whatever is easiest for you and remember two very important things:
 

@@ -1,4 +1,9 @@
-# Image Sources
+---
+layout: default
+title: "6.2 Image Sources"
+---
+
+# 6.2 Image Sources
 
 People source images from a variety of locations. Sometimes you may find yourself using custom images created for a particular site, such as photos taken by your client, and other times you may be asked to use and/or acquire stock photography. While there are a number of stock image Web sites, there are a handful of stock image Web sites that offer quality images for free with very generous licenses. Note that royalty-free and free are different things. You may need to pay for a royalty-free photo, you just won't have to pay royalties. These sites offer free images, no charge and no royalties, but in some cases attribution might be required or there may be limitations to how you can use the images.
 

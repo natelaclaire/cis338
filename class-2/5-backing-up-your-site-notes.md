@@ -1,4 +1,9 @@
-# Backing Up Your Site
+---
+layout: default
+title: "2.5 Backing Up Your Site"
+---
+
+# 2.5 Backing Up Your Site
 
 It is important that you perform regular backups of your WordPress site. WordPress stores most information in the database, but it stores uploaded files as well as themes and plugins as files, so it's important that you backup both the database and files.
 

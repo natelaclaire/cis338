@@ -1,4 +1,9 @@
-# Images and the Media Library
+---
+layout: default
+title: "6.1 Images and the Media Library"
+---
+
+# 6.1 Images and the Media Library
 
 Images are an important part of any Web site. WordPress allows uploading several types of images to the WordPress _Media Library_, along with other types of media such as audio and video and even various types of documents:
 

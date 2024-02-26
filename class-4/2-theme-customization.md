@@ -1,4 +1,9 @@
-# Theme Customization
+---
+layout: default
+title: "4.2 Theme Customization"
+---
+
+# 4.2 Theme Customization
 
 We're going to pick up where we left off in the last video and do some customizations to our site's home page. If you have logged out, take a moment to log back in to WordPress and then go to your home page.
 

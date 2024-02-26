@@ -1,4 +1,9 @@
-# Page Content, Part 2
+---
+layout: default
+title: "6.5 Page Content, Part 2"
+---
+
+# 6.5 Page Content, Part 2
 
 Open the _Normie Activities_ page. Notice the photo that appears behind the page title. This is the _Featured Image_ for the page. Let's change it to something else for this page.
 

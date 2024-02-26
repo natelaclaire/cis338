@@ -1,4 +1,9 @@
-# AI Tools
+---
+layout: default
+title: "6.8 AI Tools"
+---
+
+# 6.8 AI Tools
 
 With the growth of generative artificial intelligence, no discussion of creating site content would be complete without at least touching on it. Many people are using generative AI to produce their content or at least draft their content. Large language models such as ChatGPT can provide impressive verbiage, even if it at times is completely inaccurate, and image models such as DALL-E produce remarkable images, even though at times they defy reality. Over the past year or so, numerous tools have popped up that leverage AI for search engine optimization purposes. We'll discuss those more when we cover SEO, but for now let's look specifically at content creation using AI.
 

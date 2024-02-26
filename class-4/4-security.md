@@ -1,4 +1,9 @@
-# Security
+---
+layout: default
+title: "4.4 Security"
+---
+
+# 4.4 Security
 
 In this video, we're going to set up BulletProof Security and discuss some ways to secure WordPress.
 

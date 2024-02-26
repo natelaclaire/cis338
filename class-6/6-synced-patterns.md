@@ -1,4 +1,9 @@
-# Synced Patterns
+---
+layout: default
+title: "6.6 Synced Patterns"
+---
+
+# 6.6 Synced Patterns
 
 As mentioned before, _Synced Patterns_ allow us to make a change one place and have it reflected everywhere that we have used that particular pattern. One excellent use of this technology is to create a pattern that discusses a current promotion so that it can be changed when a new promotion comes along.
 

@@ -1,4 +1,9 @@
-# Child Themes
+---
+layout: default
+title: "5.5 Child Themes"
+---
+
+# 5.5 Child Themes
 
 By now, we have talked a lot about themes. Child themes are extensions of a parent theme, allowing you to make modifications to the parent theme without changing that existing theme's code. Among other benefits, this allows the parent theme to be updated without losing the changes that you made in the child theme. Before the introduction of child themes, many people would modify existing themes directly, which meant that if the theme was updated they had to either reapply the modifications or go without updating, neither of which is ideal.
 

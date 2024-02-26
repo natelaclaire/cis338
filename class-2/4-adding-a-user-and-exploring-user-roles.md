@@ -1,4 +1,9 @@
-# Adding a User Account for Your Instructor and Exploring User Roles
+---
+layout: default
+title: "2.4 Adding a User Account for Your Instructor and Exploring User Roles"
+---
+
+# 2.4 Adding a User Account for Your Instructor and Exploring User Roles
 
 ## Adding a User Account for Your Instructor
 

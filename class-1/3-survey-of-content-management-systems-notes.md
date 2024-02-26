@@ -1,4 +1,9 @@
-# Survey of Content Management Systems
+---
+layout: default
+title: "1.3 Survey of Content Management Systems"
+---
+
+# 1.3 Survey of Content Management Systems
 
 ## Foreword
 

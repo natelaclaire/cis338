@@ -1,4 +1,9 @@
-# Secondary Navigation
+---
+layout: default
+title: "5.4 Secondary Navigation"
+---
+
+# 5.4 Secondary Navigation
 
 In the last tutorial, I discussed that some classic themes support multiple menus. What I failed to mention, though, is that, as you might expect, FSE themes can define multiple menus *and* you can define your own menus as well.
 

@@ -1,4 +1,9 @@
-# Create Your Database
+---
+layout: default
+title: "2.1 Create Your Database"
+---
+
+# 2.1 Create Your Database
 
 1. Log into phpMyAdmin with your MySQL username and password at <https://cisstudent.uma.edu/phpmyadmin/>.
 2. Click Databases in the top navigation bar

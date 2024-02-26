@@ -1,4 +1,9 @@
-# Page Content, Part 1
+---
+layout: default
+title: "6.4 Page Content, Part 1"
+---
+
+# 6.4 Page Content, Part 1
 
 Last week we created our top-level pages. This week we are going to explore more about how to use the _WordPress block editor_ to add content to our site.
 

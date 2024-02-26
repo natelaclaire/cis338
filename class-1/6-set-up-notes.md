@@ -1,3 +1,8 @@
+---
+layout: default
+title: "1.6 Set up (SSH and phpMyAdmin)"
+---
+
 # Set up (SSH and phpMyAdmin)
 
 By now, you should have an SFTP client and an SSH client installed and should have logged into your CIS Student Server account at least once, either as part of this lesson or in a previous course.

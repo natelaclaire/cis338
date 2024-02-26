@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Photo Attribution"
+---
+
 # Photo Attribution
 
 - [People mingling](https://unsplash.com/photos/five-person-standing-while-talking-each-other-ZDN-G1xBWHY)

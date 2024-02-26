@@ -1,4 +1,9 @@
-# Plugins
+---
+layout: default
+title: "4.3 Plugins"
+---
+
+# 4.3 Plugins
 
 While WordPress Themes are used to change how your site looks, WordPress Plugins enable us to add or modify the functionality of WordPress. We will be using many plugins over the remainder of this course. In this video, we'll take a look at the process of finding, installing, updating, and removing plugins.
 

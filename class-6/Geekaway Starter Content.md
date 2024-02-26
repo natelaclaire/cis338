@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Geekaway Starter Content"
+---
+
 # Geekaway Starter Content
 
 ## Welcome to Geekaway!

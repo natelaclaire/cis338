@@ -1,4 +1,9 @@
-# Site Health
+---
+layout: default
+title: "4.5 Site Health"
+---
+
+# 4.5 Site Health
 
 1. Go to the URL of your tutorial site following by _wp-login.php_. For example, <https://cisstudent.uma.edu/~studentX/cis338/tutorial/wp-login.php>, where _studentX_ is your CIS Student Server username.
 2. Log in using the username and password you created in the _Install WordPress_ tutorial.

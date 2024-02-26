@@ -1,4 +1,9 @@
-# Site Pages, Part 1
+---
+layout: default
+title: "5.1 Site Pages, Part 1"
+---
+
+# 5.1 Site Pages, Part 1
 
 Last week we started using the Full Site Editor to modify our site's front page. This week, we are going to learn how to create and modify additional pages, so we'll start looking at how pages are configured and built using _WordPresss blocks_ and the _WordPress block editor_, which is sometimes called the _WordPress editor_ or the _Gutenberg editor_ because Gutenberg was the code name for the editor during development. Then next week we will spend a lot more time in the _WordPress block editor_ adding content to all of the pages.
 

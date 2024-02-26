@@ -1,4 +1,9 @@
-# Optional: Automatic Backups
+---
+layout: default
+title: "4.7 Optional: Automatic Backups"
+---
+
+# 4.7 Optional: Automatic Backups
 
 In an optional tutorial a few weeks ago, we created a Bash script to backup WordPress with one command. In this optional tutorial, we will take this another step and fully automate the running of the script that we created.
 

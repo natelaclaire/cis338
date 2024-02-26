@@ -1,4 +1,9 @@
-# Storyboarding and Prototyping
+---
+layout: default
+title: "3.1 Storyboarding and Prototyping"
+---
+
+# 3.1 Storyboarding and Prototyping
 
 If you do some searching using your favorite search engine for what a Web site storyboard is or how to create a Web site storyboard, you will find a wide variety of answers. Storyboarding is part of the User Experience (UX) Design Process and might be considered a type of prototype. Generally, storyboards are not as detailed as wireframes but are more fleshed-out than sitemaps. In fact, a Web development team might follow a process of building a sitemap, then a storyboard, then a wireframe, potentially with other deliverables in between some of those things. Other teams, though, might skip the sitemap because the ideation process of creating the storyboard almost always leads to changes in the sitemap, so why not just build the sitemap from the storyboard? Like the sitemap and wireframe(s), the storyboard can not only help the team but also assists in communicating with the client, ensuring that everyone is on the same page.
 

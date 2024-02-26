@@ -1,4 +1,9 @@
-# Video
+---
+layout: default
+title: "6.7 Video"
+---
+
+# 6.7 Video
 
 As I mentioned when we were discussing the _Media Library_, WordPress will allow you to upload a video; however, videos uploaded via the _Media Library_ have to be under your PHP upload limit (2MB on the student server) and they are delivered the same way as any other file. Video hosting services use various methods and protocols to provide smooth streaming media regardless of bandwidth availability and they do this by transcoding video files based on device needs. Don't expect to upload a video to WordPress and have it play smoothly on every device because that requires a lot of technology that simply isn't available to WordPress on a standard hosting platform.
 

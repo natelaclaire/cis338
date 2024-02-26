@@ -1,4 +1,9 @@
-# SSH and SFTP Software Suggestions
+---
+layout: default
+title: "1.4 SSH and SFTP Software Suggestions"
+---
+
+# 1.4 SSH and SFTP Software Suggestions
 
 Over the course of the semester, you will be using an SSH client and an SFTP client. By now in your academic career, I expect that you already have one of each of these that you like. In that case, please use them! I do not require that you use a specific tool for SSH or SFTP.
 

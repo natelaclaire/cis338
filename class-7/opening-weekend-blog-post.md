@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Opening Weekend Blog Post"
+---
+
 # Opening weekend prepations!
 
 As the sun begins to cast its golden glow over the pristine beauty and fresh construction of Geekaway, excitement is building for the grand opening weekend of this unique new resort. Set to be a haven for relaxation and geeky fun, the team behind Geekaway is leaving no stone unturned to ensure that the opening weekend surpasses every guest's expectations. In this guide, we'll delve into the meticulous preparations that are underway to create an unforgettable experience for all who step foot into this exciting vacation destination.
