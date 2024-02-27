@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Topic / Tutorial List
+nav_order: 3
 ---
 
 # Topic/Tutorial List
