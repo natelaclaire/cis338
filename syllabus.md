@@ -6,9 +6,7 @@ title: Syllabus (Spring 2024 Online)
 # CIS 338: Content Management Systems: Spring 2024 (Online)
 
 ## Instructor
-<!---
-![Nate LaClaire](../images/laclaire-nathaniel-183x183.jpg "Nate LaClaire")
--->
+![Nate LaClaire](images/laclaire-nathaniel-183x183.jpg "Nate LaClaire")
 
 Nate LaClaire
 
