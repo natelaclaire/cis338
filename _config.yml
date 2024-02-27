@@ -15,4 +15,4 @@ hljs_style: github-gist
 url: "https://natelaclaire.me"
 exclude:
 - slides/
-- *-slides*
+- "*-slides.md"
