@@ -148,7 +148,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 14
 
 * Videos:
-  * SEO (include XML sitemaps)
+  * SEO (include XML sitemaps and turning off _Discourage search engines from indexing this site_)
   * Optimization (include caching/compression)
 * Discussion:
 * Assignment:
