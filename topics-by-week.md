@@ -104,6 +104,7 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * 15 Calendar
   * 16 Maps
+  * Local Development (optional?)
 * Discussion:
   * Look at a few sites that are similar to your Portfolio Site (for example, if your Portfolio Site is for a web design business, look at web sites for other web design companies) and see how they are using calendars and maps. Write a paragraph explaining your findings, including your thoughts on how well they are used and what could be done better. Also provide substantive responses to two or more of your classmates.
 * Assignment:
@@ -158,6 +159,5 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * Final Site
   * WP CLI (optional)
-  * Local Development (optional?)
 * Discussion:
 * Assignment:
