@@ -142,6 +142,7 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * 21 Finishing and testing
   * 22 Responsive Design
+  * YARPP
 * Discussion:
 * Assignment:
 
