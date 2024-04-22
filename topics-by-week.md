@@ -153,7 +153,6 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * SEO (include XML sitemaps and turning off _Discourage search engines from indexing this site_)
   * Optimization (include caching/compression)
-  * Optional: deploying to production and migrating between environments
 * Discussion:
 * Assignment:
  
@@ -162,5 +161,6 @@ Numbered videos are based on lessons from a prior semester.
 * Videos:
   * Final Site
   * WP CLI (optional)
+  * deploying to production and migrating between environments
 * Discussion:
 * Assignment:
