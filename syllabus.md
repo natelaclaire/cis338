@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus (Fall 2024 Directed Study)
+title: Syllabus (Spring 2025 Online)
 nav_order: 2
 ---
 
-# CIS 338: Content Management Systems: Fall 2024 (Directed Study)
+# CIS 338: Content Management Systems: Spring 2025 (Online)
 
 ## Class Meetings
 
@@ -105,22 +105,22 @@ To maximize your learning experience, you should:
 
 | Week        | Assignment Topic                                                       | Due Date (11:59pm) |
 | ----------- | ---------------------------------------------------------------------- | ------------------ |
-| 1           | Introductions, Survey of Content Management Systems, Set-Up            | September 7        |
-| 2           | WordPress Installation, Users and Roles, Back-ups                      | September 14       |
-| 3           | Storyboard                                                             | September 21       |
-| 4           | Themes, Plugins, Security, Updates                                     | September 28       |
-| 5           | Pages, Menus, Child Themes                                             | October 5          |
-| 6           | Image Sliders, Page Content                                            | October 12         |
-| 7           | Blog Posts, Tags and Categories                                        | October 19         |
-| 8           | Contact Forms                                                          | October 26         |
-| 9           | Calendars, Maps                                                        | November 2         |
-| 10          | Forums, Social Sharing                                                 | November 9         |
-| 11          | Image Galleries, Web Stories                                           | November 16        |
-| 12          | Shops                                                                  | November 23        |
-|             | **No Assignments Due November 30 – Thanksgiving Break**                |                    |
-| 13          | Finishing and Testing, Responsive Design                               | December 7         |
-| 14          | SEO, Optimization                                                      | December 14        |
-| 15          | Final Portfolio Site Submission                                        | December 20        |
+| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 25         |
+| 2           | WordPress Installation, Users and Roles, Back-ups                      | February 1         |
+| 3           | Storyboard                                                             | February 8         |
+| 4           | Themes, Plugins, Security, Updates                                     | February 15        |
+| 5           | Pages, Menus, Child Themes                                             | February 22        |
+| 6           | Image Sliders, Page Content                                            | March 1            |
+| 7           | Blog Posts, Tags and Categories                                        | March 8            |
+| 8           | Contact Forms                                                          | March 15           |
+|             | **No Assignments Due March 22 – Spring Break**                         |                    |
+| 9           | Calendars, Maps                                                        | March 29           |
+| 10          | Forums, Social Sharing                                                 | April 5            |
+| 11          | Image Galleries, Web Stories                                           | April 12           |
+| 12          | Shops                                                                  | April 19           |
+| 13          | Finishing and Testing, Responsive Design                               | April 26           |
+| 14          | SEO, Optimization                                                      | May 3              |
+| 15          | Final Portfolio Site Submission                                        | May 10             |
 
 ### Semester-long Project: Your Portfolio Site
 
