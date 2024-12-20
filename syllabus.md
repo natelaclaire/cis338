@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus (Spring 2025 Online)
+title: Syllabus (Spring 2025 Directed Study)
 nav_order: 2
 ---
 
-# CIS 338: Content Management Systems: Spring 2025 (Online)
+# CIS 338: Content Management Systems: Spring 2025 (Directed Study)
 
 ## Class Meetings
 
