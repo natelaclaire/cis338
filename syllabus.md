@@ -41,7 +41,7 @@ _There is no textbook required._ All course materials will be provided within th
 
 ## Required Software
 
-Students will be required to install an SSH and an SFTP client. Free options will be shared in the first class.
+Some free software will be required. Installation instructions will be covered in the first class.
 
 ## Course Objectives
 
