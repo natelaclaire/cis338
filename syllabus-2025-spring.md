@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus (Spring 2026)
+title: Syllabus (Spring 2025 Directed Study)
 nav_order: 2
 ---
 
-# CIS 338: Content Management Systems: Spring 2026 (Online)
+# CIS 338: Content Management Systems: Spring 2025 (Directed Study)
 
 ## Class Meetings
 
@@ -41,7 +41,7 @@ _There is no textbook required._ All course materials will be provided within th
 
 ## Required Software
 
-Some free software will be required, including [_Local_](https://localwp.com/). Installation instructions will be covered in the first class.
+Some free software will be required. Installation instructions will be covered in the first class.
 
 ## Course Objectives
 
@@ -105,22 +105,22 @@ To maximize your learning experience, you should:
 
 | Week        | Assignment Topic                                                       | Due Date (11:59pm) |
 | ----------- | ---------------------------------------------------------------------- | ------------------ |
-| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 24         |
-| 2           | WordPress Installation, Users and Roles, Back-ups                      | January 31         |
-| 3           | Storyboard                                                             | February 7         |
-| 4           | Themes, Child Themes, Plugins, Security, Updates                       | February 14        |
-| 5           | Pages, Menus                                                           | February 21        |
-| 6           | Image Sliders, Page Content                                            | February 28        |
-| 7           | Blog Posts, Tags and Categories                                        | March 7            |
-| 8           | Contact Forms                                                          | March 14           |
-|             | **No Assignments Due March 20 – Spring Break**                         |                    |
-| 9           | Calendars, Maps                                                        | March 28           |
-| 10          | Forums, Social Sharing                                                 | April 4            |
-| 11          | Image Galleries, Web Stories                                           | April 11           |
-| 12          | Shops                                                                  | April 18           |
-| 13          | Finishing and Testing, Responsive Design                               | April 25           |
-| 14          | SEO, Optimization                                                      | May 2              |
-| 15          | Final Portfolio Site Submission                                        | May 9              |
+| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 25         |
+| 2           | WordPress Installation, Users and Roles, Back-ups                      | February 1         |
+| 3           | Storyboard                                                             | February 8         |
+| 4           | Themes, Plugins, Security, Updates                                     | February 15        |
+| 5           | Pages, Menus, Child Themes                                             | February 22        |
+| 6           | Image Sliders, Page Content                                            | March 1            |
+| 7           | Blog Posts, Tags and Categories                                        | March 8            |
+| 8           | Contact Forms                                                          | March 15           |
+|             | **No Assignments Due March 22 – Spring Break**                         |                    |
+| 9           | Calendars, Maps                                                        | March 29           |
+| 10          | Forums, Social Sharing                                                 | April 5            |
+| 11          | Image Galleries, Web Stories                                           | April 12           |
+| 12          | Shops                                                                  | April 19           |
+| 13          | Finishing and Testing, Responsive Design                               | April 26           |
+| 14          | SEO, Optimization                                                      | May 3              |
+| 15          | Final Portfolio Site Submission                                        | May 10             |
 
 ### Semester-long Project: Your Portfolio Site
 
