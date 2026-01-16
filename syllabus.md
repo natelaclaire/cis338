@@ -103,24 +103,24 @@ To maximize your learning experience, you should:
 - Complete discussion assignments on or before the due date.
 - Complete the homework assignment using the Portfolio Site and indicate that you have completed it through the Course Content tab in Brightspace on or before the due date.
 
-| Week        | Assignment Topic                                                       | Due Date (11:59pm) |
-| ----------- | ---------------------------------------------------------------------- | ------------------ |
-| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 24         |
-| 2           | WordPress Installation, Users and Roles, Back-ups                      | January 31         |
-| 3           | Storyboard                                                             | February 7         |
-| 4           | Themes, Child Themes, Plugins, Security, Updates                       | February 14        |
-| 5           | Pages, Menus                                                           | February 21        |
-| 6           | Image Sliders, Page Content                                            | February 28        |
-| 7           | Blog Posts, Tags and Categories                                        | March 7            |
-| 8           | Contact Forms                                                          | March 14           |
-|             | **No Assignments Due March 20 – Spring Break**                         |                    |
-| 9           | Calendars, Maps                                                        | March 28           |
-| 10          | Forums, Social Sharing                                                 | April 4            |
-| 11          | Image Galleries, Web Stories                                           | April 11           |
-| 12          | Shops                                                                  | April 18           |
-| 13          | Finishing and Testing, Responsive Design                               | April 25           |
-| 14          | SEO, Optimization                                                      | May 2              |
-| 15          | Final Portfolio Site Submission                                        | May 9              |
+| Week        | Assignment Topic                                                       | Content Available  | Due Date (11:59pm) |
+| ----------- | ---------------------------------------------------------------------- | ------------------ | ------------------ |
+| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 18         | January 24         |
+| 2           | WordPress Installation, Users and Roles, Back-ups                      | January 25         | January 31         |
+| 3           | Storyboard                                                             | February 1         | February 7         |
+| 4           | Themes, Child Themes, Plugins, Security, Updates                       | February 8         | February 14        |
+| 5           | Pages, Menus                                                           | February 15        | February 21        |
+| 6           | Image Sliders, Page Content                                            | February 22        | February 28        |
+| 7           | Blog Posts, Tags and Categories                                        | March 1            | March 7            |
+| 8           | Contact Forms                                                          | March 8            | March 14           |
+|             | **No Assignments Due March 21 – Spring Break**                         |                    |                    |
+| 9           | Calendars, Maps                                                        | March 22           | March 28           |
+| 10          | Forums, Social Sharing                                                 | March 29           | April 4            |
+| 11          | Image Galleries, Web Stories                                           | April 5            | April 11           |
+| 12          | Shops                                                                  | April 12           | April 18           |
+| 13          | Finishing and Testing, Responsive Design                               | April 19           | April 25           |
+| 14          | SEO, Optimization                                                      | April 26           | May 2              |
+| 15          | Final Portfolio Site Submission                                        | May 3              | May 9              |
 
 ### Semester-long Project: Your Portfolio Site
 
